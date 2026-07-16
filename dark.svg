@@ -274,9 +274,6 @@
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.4s" fill="freeze"/>
         <rect x="608" y="436" width="102" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="659" y="457" text-anchor="middle" class="pill-text">PostgreSql</text></g>
-       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.4s" fill="freeze"/>
-        <rect x="608" y="436" width="102" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="659" y="457" text-anchor="middle" class="pill-text">MySql</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.5s" fill="freeze"/>
         <rect x="722" y="436" width="80" height="32" rx="16" fill="rgba(16,185,129,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="762" y="457" text-anchor="middle" class="pill-text">AWS</text></g>
@@ -284,11 +281,14 @@
         <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="852" y="457" text-anchor="middle" class="pill-text">Git</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
-        <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="852" y="457" text-anchor="middle" class="pill-text">Firebase</text></g>
+        <rect x="906" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="942" y="457" text-anchor="middle" class="pill-text">Firebase</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
-        <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="852" y="457" text-anchor="middle" class="pill-text">MongoDB</text></g>
+        <rect x="998" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="1034" y="457" text-anchor="middle" class="pill-text">MongoDB</text></g>
+       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.4s" fill="freeze"/>
+        <rect x="1090" y="436" width="102" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="1126" y="457" text-anchor="middle" class="pill-text">MySql</text></g>
     </g>
 
     <rect x="500" y="490" width="636" height="1" fill="rgba(255,255,255,0.08)"/>
