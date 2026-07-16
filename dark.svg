@@ -190,7 +190,7 @@
     <!-- greeting -->
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.6s" begin="0.3s" fill="freeze"/>
-      <text x="500" y="112" class="greet" font-size="30" fill="#F8FAFC">Hi <tspan>👋</tspan> I'm <tspan fill="url(#accentGradD)">Your Name</tspan></text>
+      <text x="500" y="112" class="greet" font-size="30" fill="#F8FAFC">Hi <tspan>👋</tspan> I'm <tspan fill="url(#accentGradD)">Nilesh</tspan></text>
     </g>
 
     <!-- typing rotating roles -->
@@ -226,15 +226,15 @@
     <!-- info list -->
     <g class="label">
       <g opacity="0"><animate attributeName="opacity" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>
-        <text x="500" y="204">📍 Location</text><text x="620" y="204" class="value">San Francisco, CA</text></g>
+        <text x="500" y="204">📍 Location</text><text x="620" y="204" class="value">Pune, India</text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" dur="0.5s" begin="2.0s" fill="freeze"/>
         <text x="500" y="236">🎓 Education</text><text x="620" y="236" class="value">B.S. Computer Science</text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" dur="0.5s" begin="2.4s" fill="freeze"/>
-        <text x="500" y="268">🚀 Current Focus</text><text x="640" y="268" class="value">Building AI-powered dev tools</text></g>
+        <text x="500" y="268">🚀 Current Focus</text><text x="640" y="268" class="value">Building AI-powered Web and Native Apps</text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" dur="0.5s" begin="2.8s" fill="freeze"/>
-        <text x="500" y="300">🔗 Portfolio</text><text x="620" y="300" class="value" text-decoration="underline">yourname.dev</text></g>
+        <text x="500" y="300">🔗 Portfolio</text><text x="620" y="300" class="value" text-decoration="underline">nileshkashani.me</text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" dur="0.5s" begin="3.2s" fill="freeze"/>
-        <text x="500" y="332">✉ Email</text><text x="620" y="332" class="value">hello@yourname.dev</text></g>
+        <text x="500" y="332">✉ Email</text><text x="620" y="332" class="value">nileshkashani45@gmail.com</text></g>
     </g>
 
     <rect x="500" y="352" width="636" height="1" fill="rgba(255,255,255,0.08)"/>
@@ -250,7 +250,7 @@
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="3.7s" fill="freeze"/>
         <rect x="500" y="392" width="92" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="url(#accentGradD)" stroke-width="1" filter="url(#softGlowD)"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></rect>
         <rect x="500" y="392" width="92" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="546" y="413" text-anchor="middle" class="pill-text">React</text></g>
+        <text x="546" y="413" text-anchor="middle" class="pill-text">React.js</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="3.8s" fill="freeze"/>
         <rect x="602" y="392" width="92" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="648" y="413" text-anchor="middle" class="pill-text">Next.js</text></g>
@@ -265,7 +265,7 @@
         <text x="972" y="413" text-anchor="middle" class="pill-text">Tailwind</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.2s" fill="freeze"/>
         <rect x="1034" y="392" width="90" height="32" rx="16" fill="rgba(16,185,129,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="1079" y="413" text-anchor="middle" class="pill-text">Python</text></g>
+        <text x="1079" y="413" text-anchor="middle" class="pill-text">Java</text></g>
 
       <!-- row 2 -->
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.3s" fill="freeze"/>
@@ -273,16 +273,22 @@
         <text x="548" y="457" text-anchor="middle" class="pill-text">Docker</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.4s" fill="freeze"/>
         <rect x="608" y="436" width="102" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="659" y="457" text-anchor="middle" class="pill-text">Postgres</text></g>
+        <text x="659" y="457" text-anchor="middle" class="pill-text">PostgreSql</text></g>
+       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.4s" fill="freeze"/>
+        <rect x="608" y="436" width="102" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="659" y="457" text-anchor="middle" class="pill-text">MySql</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.5s" fill="freeze"/>
         <rect x="722" y="436" width="80" height="32" rx="16" fill="rgba(16,185,129,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="762" y="457" text-anchor="middle" class="pill-text">AWS</text></g>
       <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
         <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
         <text x="852" y="457" text-anchor="middle" class="pill-text">Git</text></g>
-      <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.7s" fill="freeze"/>
-        <rect x="902" y="436" width="86" height="32" rx="16" fill="rgba(34,211,238,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
-        <text x="945" y="457" text-anchor="middle" class="pill-text">Figma</text></g>
+      <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
+        <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="852" y="457" text-anchor="middle" class="pill-text">Firebase</text></g>
+      <g class="pill" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
+        <rect x="814" y="436" width="76" height="32" rx="16" fill="rgba(124,58,237,0.12)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        <text x="852" y="457" text-anchor="middle" class="pill-text">MongoDB</text></g>
     </g>
 
     <rect x="500" y="490" width="636" height="1" fill="rgba(255,255,255,0.08)"/>
