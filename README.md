@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nilesh%20Kashani&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Android%20%26%20GenAI%20Builder&descAlignY=55&descSize=20" width="100%"/>
-
 ### `> Hey there!, I am Nilesh Kashani`
 
 「 Computer Science Student 」 「 Full-Stack & Android Developer 」 「 Building with Generative AI 」
