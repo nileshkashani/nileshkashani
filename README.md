@@ -88,33 +88,6 @@ Key features: authentication, category-based product browsing, personalized gift
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
 
-## 🏆 Achievements & Certifications
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🥈 Finalist — NxtWave × OpenAI Academy Buildathon**
-*Provider: NxtWave*
-
-`N8N` `Vapi AI` `ReactJS` `Google Gemini` `Generative AI` `Prompt Engineering`
-
-Built an AI-powered voice assistant at this pre-summit event of the India AI Impact Summit 2026, combining LLMs, Speech-to-Text, and Text-to-Speech in a live hackathon environment.
-
-</td>
-<td width="50%" valign="top">
-
-**🥇 Winner — Prep-A-Thon 2025**
-*GSMCOE, Pune*
-
-`Problem Solving` `Logical Thinking` `Data Structures` `Java`
-
-Won the Prep-A-Thon Saga at TECHNOBASH 2025, solving technical challenges under competitive conditions to sharpen analytical and software development skills.
-
-</td>
-</tr>
-</table>
-
 **📜 Certificate in Programming in C** — *All India Council For Professional Excellence* · Jun 2023 – Aug 2023
 `C Programming` — Covered variables, control structures, functions, arrays, pointers, and file handling; built the ability to write and debug procedural C programs.
 
