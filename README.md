@@ -72,7 +72,7 @@ Computer Science student with hands-on experience in **Full-Stack Development** 
 
 `Solo Project` · `May 2026 – Jul 2026`
 
-[![Live App](https://img.shields.io/badge/Live_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ladade--5mrryeyhyy.expo.app)
+[![Live App](https://img.shields.io/badge/Live_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://play.google.com/store/apps/details?id=com.ladade.ladade&hl=en_IN)
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white"/>
 
