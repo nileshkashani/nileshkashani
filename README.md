@@ -85,7 +85,6 @@ Key features: authentication, category-based product browsing, personalized gift
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
 
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
