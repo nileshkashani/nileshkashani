@@ -16,9 +16,7 @@ Computer Science student with hands-on experience in **Full-Stack Development** 
 
 - 🎓 Pursuing **B.Sc. Computer Science** — CGPA **9.14 / 10**
 - 🚀 Currently building **cross-platform mobile apps** with React Native + Expo
-- 🤖 Exploring **Generative AI, LLMs, STT/TTS** and voice-assistant pipelines
-- 🏆 Finalist — **OpenAI Academy × NxtWave Buildathon** (India AI Impact Summit 2026)
-- 🥇 Winner — **Prep-A-Thon 2025**, GSMCOE Pune
+- 🤖 Exploring **Generative AI, LLMs, Prompt Engineering, Web and Native Things
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%"/>
 
