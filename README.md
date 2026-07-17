@@ -84,8 +84,6 @@ Key features: authentication, category-based product browsing, personalized gift
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
 
-**📜 Certificate in Programming in C** — *All India Council For Professional Excellence* · Jun 2023 – Aug 2023
-`C Programming` — Covered variables, control structures, functions, arrays, pointers, and file handling; built the ability to write and debug procedural C programs.
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%"/>
 
